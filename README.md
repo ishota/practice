@@ -14,3 +14,4 @@
 - second-branchのpullを試すために追加した行
 - third-branchで編集した行
 - stashの実験
+- stashする前のREADME.md
