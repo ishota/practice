@@ -13,3 +13,4 @@
 - first-branchのプルリクエストが否認されたとして、追加した行
 - second-branchのpullを試すために追加した行
 - third-branchで編集した行
+- stashの実験
